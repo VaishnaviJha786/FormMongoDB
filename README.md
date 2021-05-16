@@ -8,16 +8,18 @@ To run the program.
 Simply clone the directory
 
 then in your project folder run
-
+```
 npm install
+```
 #the command installs all your dependencies
 
 then configure your mongodb make sure it is running in the background
 
 then execute the following command in your project folder's CMD
 
+```
 node app.js
-
+```
 
 that's all. 
 
